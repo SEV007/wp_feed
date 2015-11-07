@@ -13,5 +13,5 @@ to setup your wordpress connection data in wp_feed.php
 This file contains the text to post in the correct format POST TITLE|POST DATA
 As you can see the pipe | is used to separate the post title from the content
 so the reader in wp_feed.php can separate it in two variables
-  `$title
-   $content`
+  `*$title
+   *$content`
