@@ -15,3 +15,11 @@ As you can see the pipe **|** is used to separate the post title from the conten
 so the reader in wp_feed.php can separate it in two variables
   `$title` <br />
   `$content` <br />
+
+**Adding content to message_db.txt**
+I recommend using notepad++ for this task. <br />
+Press CTRL-H to bring up the Find/Replace Dialog. Choose the "Regular expressions" checkbox near the bottom of the dialog. <br />
+To add something to the beginning of each line, type ^ in the "Find what" field and "whathever your text is" in the "Replace with" field. Then hit "Replace All". <br />
+If you want to add something at the end of line type $
+in the "Find what" field and type "your text" in the
+"Replace with" field. Then "Replace All". <br />
