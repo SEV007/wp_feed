@@ -8,9 +8,9 @@ This file contains the text reader, code reformat and mysql queries necesary
 for this bot to can post your content on your website.
 The code is simple and does not contain backend. In order to make it works you need
 to setup your wordpress connection data in wp_feed.php<br />
-  *`$server = "localhost";` <br />
-  *`$username = "wpadmin";` <br />
-  *`$password = "password";`<br />
+* `$server = "localhost";` <br />
+* `$username = "wpadmin";` <br />
+* `$password = "password";`<br />
 
 **message_db.txt**
 This file contains the text to post in the correct format **POST TITLE|POST DATA**
