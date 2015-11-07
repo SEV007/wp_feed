@@ -26,3 +26,6 @@ To add something to the beginning of each line, type ^ in the "Find what" field 
 If you want to add something at the end of line type $
 in the "Find what" field and type "your text" in the
 "Replace with" field. Then "Replace All". <br />
+
+-
+If you want to add something to the code or to this README file feel free to do it.
