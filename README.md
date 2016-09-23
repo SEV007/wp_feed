@@ -5,7 +5,7 @@ The file structure of wp_feed consists of two files
 
 **wp_feed.php**
 This file contains the text reader, code reformat and mysql queries necesary
-for this bot to can post your content on your website.
+for this bot to be able post your content on your website.
 The code is simple and does not contain backend. In order to make it works you need
 to setup your wordpress connection data in wp_feed.php<br />
 * `$server = "localhost";` <br />
